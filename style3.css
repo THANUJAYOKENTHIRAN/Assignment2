@@ -1,0 +1,37 @@
+.mr{
+     margin-top: 0px;
+     margin-bottom:0px;
+     margin-right:0px;
+     margin-left: 850px;
+   }
+
+   /* button margin */
+   .mrl1{
+        margin-left: 190px;
+   }
+   .mr2{
+     margin-left:20px;
+     margin-bottom:10px;
+   }
+   body{
+     background-color:#d3d6db;
+   }
+   .bg-nav{
+     background-color:#ebedeb;
+   }
+   img{
+     height:350px;
+     width:250px;
+   }
+   .mr5{
+     margin-top:10px;
+     margin-right:10px;
+     margin-left:10px;
+     margin-bottom:10px;
+   }
+   .mr6{
+     margin-left:20px;
+   }
+   .bg-box{
+     background-color:#d9e9ff;
+   }

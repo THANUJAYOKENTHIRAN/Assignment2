@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Show Track</title>
+	<link rel = "icon" href =
+"Url.ico"
+       type = "image/x-icon">
+
+       <script src='https://kit.fontawesome.com/a076d05399.js'></script>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="style5.css">
+
+
+</head>
+<body onload='document.form1.text1.focus()'>
+<script src="Email_validation.js"></script>	
+
+
+    <div class="div1 bg-light input-icons">
+      <h2 class="center1">Sign up</h2>
+      <form class="" action="index.html" method="post" name="form1">
+        <i class="fa fa-user icon br5 i1"></i>
+        <input class="e input-field" type="text" name="tname" value="" placeholder="Name" style="width:95%  ;">
+        <br>
+            <br>
+            <i class="fa fa-envelope icon br5 i1"></i>
+            <input class="e input-field" type="email" name="text1" value="" placeholder="Email" style="width:95%  ;"><br><br>
+              <i class="fa fa-key icon br5 i1"></i>
+                <input class="e input-field" type="password" name="pname" value="" placeholder="Password" style="width:95%  ;"><br><br>
+                <small><span class="text-muted">By clicking on singn up you agree to </span><span>terms & <br> conditions </span>
+                <span class="text-muted">and</span><span>privacy policy</span></small>
+                <br>
+
+
+                <button type="button" name="button" class="btn btn-primary text-light"  style="width:95% " onclick="ValidateEmail(document.form1.text1)">sign up</button><br>
+                <small><span class="text-muted">Alredy have an account?</span><span>Log in now</span></small>     <br><br>
+              </form>
+    </div>
+
+</body>
+</html>

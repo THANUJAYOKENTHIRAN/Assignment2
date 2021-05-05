@@ -1,0 +1,36 @@
+.mr{
+     margin-top: 0px;
+     margin-bottom:0px;
+     margin-right:0px;
+     margin-left: 900px;
+   }
+
+.mrl1{
+        margin-left: 190px;
+   }
+  
+   .mr2{
+     margin-left: 700px;
+   }
+
+      /* buttoncolor */
+   .bg1{
+     background-color:#d3d6db;
+   }
+
+   .c1{
+     background-color:#d3d6db;
+   }
+   th{
+     text-align: center;
+   }
+   img{
+     height:350px;
+     width:300px;
+   }
+   .bg-nav{
+     background-color:#ebedeb;
+   }
+   .mr5{
+     margin: 10px 10px 10px 10px:
+   }
