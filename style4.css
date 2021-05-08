@@ -1,5 +1,6 @@
 .i1 {
            position: absolute;
+
        }
 
        .input-icons {
@@ -26,7 +27,7 @@
    }
 
    /* button margin */
-   .mr1{
+   .col1{
         margin-left: 190px;
    }
    .mr2{
@@ -69,7 +70,8 @@ input[type=text] {
   border:none;
 }
 
-<!-- emai image -->
-.e{
-    background-image: url('e.jpg');
+
+
+.div1 bg-light input-icons{
+  margin-left: 500px;
 }

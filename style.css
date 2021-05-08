@@ -2,13 +2,13 @@
      margin-top: 0px;
      margin-bottom:0px;
      margin-right:0px;
-     margin-left: 900px;
+     margin-left: 1500px;
    }
 
-.mrl1{
-        margin-left: 190px;
+.col1{
+        margin-left:   600px;
    }
-  
+
    .mr2{
      margin-left: 700px;
    }
@@ -33,4 +33,7 @@
    }
    .mr5{
      margin: 10px 10px 10px 10px:
+   }
+   .col{
+     margin-left: 350px;
    }
